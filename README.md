@@ -30,8 +30,3 @@ O resultado será exibido na tela como "8".
 ## Limitações
 
 Esta calculadora básica não lida com operações avançadas, como potenciação, radiciação ou funções trigonométricas. Ela é projetada apenas para cálculos simples.
-
-## Exemplo de Interface
-
-Aqui está uma representação visual simples da interface da calculadora:
-
