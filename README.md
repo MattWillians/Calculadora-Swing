@@ -2,6 +2,13 @@
 
 Esta é uma calculadora simples que pode realizar operações matemáticas básicas. Você pode usá-la para realizar adições, subtrações, multiplicações e divisões.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Calculadora Swing**
+| :label: Tecnologias | java, Swing UI, Ubservers
+
+![](https://drive.google.com/file/d/1RBwWaEi-BQXVy8yFzPzgYqbuu0CzWa5s/preview)
+
 ## Instruções de Uso
 
 1. Digite o primeiro número.
