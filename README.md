@@ -10,7 +10,7 @@ Esta é uma calculadora simples que pode realizar operações matemáticas bási
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![capa_projeto](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/09b62e46-0de1-40c7-847d-9c3a060ddfc9#vitrinedev)
+![Banner](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/3dbbb3ec-d8e7-4b55-bdf7-b91365072ca7#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -37,4 +37,4 @@ Suponha que você queira somar 5 e 3:
 
 O resultado será exibido na tela como "8".
 
-![capa_projeto](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/09b62e46-0de1-40c7-847d-9c3a060ddfc9#vitrinedev)
+![capa_projeto](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/09b62e46-0de1-40c7-847d-9c3a060ddfc9)
