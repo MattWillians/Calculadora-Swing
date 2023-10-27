@@ -5,7 +5,7 @@ Esta é uma calculadora simples que pode realizar operações matemáticas bási
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Calculadora Swing**
-| :label: Tecnologias | java, Swing UI, Ubservers
+| :label: Tecnologias | java, Swing UI, Observers
 | :rocket: URL         | https://github.com/MattWillians/Calculadora-Swing
 | :fire: Desafio     | 
 
