@@ -7,7 +7,8 @@ Esta é uma calculadora simples que pode realizar operações matemáticas bási
 | :sparkles: Nome        | **Calculadora Swing**
 | :label: Tecnologias | java, Swing UI, Ubservers
 
-![](https://drive.google.com/file/d/1RBwWaEi-BQXVy8yFzPzgYqbuu0CzWa5s/preview)
+![capa_projeto](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/09b62e46-0de1-40c7-847d-9c3a060ddfc9#vitrinedev)
+
 
 ## Instruções de Uso
 
