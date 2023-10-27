@@ -37,6 +37,4 @@ Suponha que você queira somar 5 e 3:
 
 O resultado será exibido na tela como "8".
 
-## Limitações
-
-Esta calculadora básica não lida com operações avançadas, como potenciação, radiciação ou funções trigonométricas. Ela é projetada apenas para cálculos simples.
+[capa_projeto](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/09b62e46-0de1-40c7-847d-9c3a060ddfc9#vitrinedev)
