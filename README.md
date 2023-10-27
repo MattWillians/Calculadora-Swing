@@ -6,11 +6,13 @@ Esta é uma calculadora simples que pode realizar operações matemáticas bási
 | -------------  | --- |
 | :sparkles: Nome        | **Calculadora Swing**
 | :label: Tecnologias | java, Swing UI, Ubservers
+| :rocket: URL         | https://github.com/MattWillians/Calculadora-Swing
+| :fire: Desafio     | 
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![capa_projeto](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/09b62e46-0de1-40c7-847d-9c3a060ddfc9#vitrinedev)
 
-
-## Instruções de Uso
+## Detalhes do projeto
 
 1. Digite o primeiro número.
 2. Escolha a operação que deseja realizar (adição, subtração, multiplicação ou divisão).
