@@ -7,7 +7,6 @@ Esta é uma calculadora simples que pode realizar operações matemáticas bási
 | :sparkles: Nome        | **Calculadora Swing**
 | :label: Tecnologias | java, Swing UI, Observers
 | :rocket: URL         | https://github.com/MattWillians/Calculadora-Swing
-| :fire: Desafio     | Criar uma calculadora em Swing UI com as operações essenciais de uma calculadora.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![Banner](https://github.com/MattWillians/Calculadora-Swing/assets/102035342/3dbbb3ec-d8e7-4b55-bdf7-b91365072ca7#vitrinedev)
